@@ -1,10 +1,11 @@
 
 # 👋 Welcome to my GitHub!
+- 🎓 Sejong Univ, Dept. of Software 21
+- 💼 SSAFY 14기 2025.07 ~ 
 
 - 📚 I'm studying ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuncheol1&show_icons=true&theme=radical)
+
 ### BOJ Rank
 <a href="https://solved.ac/profile/naro2727">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naro2727)</a>
 
