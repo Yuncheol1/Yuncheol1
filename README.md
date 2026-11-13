@@ -1,25 +1,23 @@
 
 # 👋 Welcome to my GitHub!
+
+
+
+## Experiences
 - 🎓 Sejong Univ, Dept. of Software 21
-- 💼 SSAFY 14기 2025.07 ~ 
-
-- 📚 I'm studying ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- 💼 SSAFY 14기 서울 2025.07 ~ 2026.06
 
 
-### BOJ Rank
+## Certification
+- SQLD (한국데이터산업진흥원) 
+- 정보처리기사 (한국산업인력공단) 
+
+
+
+
+
+## BOJ Rank
 <a href="https://solved.ac/profile/naro2727">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naro2727)</a>
 
-<!--
-**Yuncheol1/Yuncheol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
